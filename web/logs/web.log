@@ -1,0 +1,25 @@
+00:13:22,659  INFO http-nio-8080-exec-6 ReadFile:readFile:18 - dir: C:/Users/user/Documents/NetBeansProjects/UniTest/WebApplication1/web/files/
+00:13:22,670  INFO http-nio-8080-exec-6 ReadFile:readFile:19 - fileName: noteStorage.txt
+00:13:22,671  INFO http-nio-8080-exec-6 ReadFile:readFile:20 - Read a file.
+00:13:29,229  INFO http-nio-8080-exec-6 NewServlet:doPost:33 - ID: 
+00:13:29,230  INFO http-nio-8080-exec-6 NewServlet:doPost:34 - Date: 45
+00:13:29,231  INFO http-nio-8080-exec-6 NewServlet:doPost:35 - Note: 45
+00:13:29,231  INFO http-nio-8080-exec-6 NewServlet:doPost:36 - Button: Add
+00:13:29,231  INFO http-nio-8080-exec-6 NewServlet:doPost:40 - Add a new note.
+00:13:29,232  INFO http-nio-8080-exec-6 ReadFile:add:66 - Method add
+00:13:29,232  INFO http-nio-8080-exec-6 ReadFile:readFile:18 - dir: C:/Users/user/Documents/NetBeansProjects/UniTest/WebApplication1/web/files/
+00:13:29,233  INFO http-nio-8080-exec-6 ReadFile:readFile:19 - fileName: noteStorage.txt
+00:13:29,233  INFO http-nio-8080-exec-6 ReadFile:readFile:20 - Read a file.
+00:13:29,234  INFO http-nio-8080-exec-6 ReadFile:writeFile:49 - Write a file.
+00:13:29,311  INFO http-nio-8080-exec-7 ReadFile:readFile:18 - dir: C:/Users/user/Documents/NetBeansProjects/UniTest/WebApplication1/web/files/
+00:13:29,313  INFO http-nio-8080-exec-7 ReadFile:readFile:19 - fileName: noteStorage.txt
+00:13:29,314  INFO http-nio-8080-exec-7 ReadFile:readFile:20 - Read a file.
+00:14:11,873  INFO http-nio-8080-exec-9 NewServlet:doPost:33 - ID: 
+00:14:11,874  INFO http-nio-8080-exec-9 NewServlet:doPost:34 - Date: 
+00:14:11,874  INFO http-nio-8080-exec-9 NewServlet:doPost:35 - Note: 
+00:14:11,875  INFO http-nio-8080-exec-9 NewServlet:doPost:36 - Button: Add
+00:14:11,875  INFO http-nio-8080-exec-9 NewServlet:doPost:40 - Add a new note.
+00:14:11,875  INFO http-nio-8080-exec-9 NewServlet:doPost:46 - EMPTY PARAMETER!!!!!
+00:14:11,957  INFO http-nio-8080-exec-10 ReadFile:readFile:18 - dir: C:/Users/user/Documents/NetBeansProjects/UniTest/WebApplication1/web/files/
+00:14:11,958  INFO http-nio-8080-exec-10 ReadFile:readFile:19 - fileName: noteStorage.txt
+00:14:11,959  INFO http-nio-8080-exec-10 ReadFile:readFile:20 - Read a file.
